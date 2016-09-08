@@ -43,7 +43,7 @@ There are two constructors and their types are String and double.
 
 ## Can you guess what types some of the `Book` class’s fields might be, from the parameters in its constructor? Can you assume anything about the names of its fields?
 
-The types of the `Book` class's fields are String and double.  
+The types of the `Book` class's fields are String and double. String can make you write anything with a letter and/or number. While double allows you to write any number, even one with a decimale attach to it.
 
 
 ## Suppose that the class `Pet` has a field called `name` that is of the type `String`. Write an assignment statement in the body of the following constructor so that the `name` field will be initialized with the value of the constructor’s parameter.
