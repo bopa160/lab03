@@ -39,7 +39,7 @@ Student
 ```
 public Book(String title, double price)
 ```
-There are two constructors and their types are String and double.
+There are two constructors and their types are String and double. String can make you write anything with a letter and/or number. While double allows you to write any number, even one with a decimale attach to it.
 
 ## Can you guess what types some of the `Book` class’s fields might be, from the parameters in its constructor? Can you assume anything about the names of its fields?
 
